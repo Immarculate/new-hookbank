@@ -68,5 +68,3 @@ function Footer() {
 }
 
 export default Footer
-
-git@github.com:Immarculate/Hookbank.git
